@@ -1,4 +1,4 @@
-# Vanilla WoW Configuration Script
+# Kronos WoW Configuration Script
 
 Configuration script for use with Kronos Wow.
 
