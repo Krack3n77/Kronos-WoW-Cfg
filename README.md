@@ -1,5 +1,9 @@
 # Kronos WoW Configuration Script
 
+
+![Demo](https://i.imgur.com/dIy92WT.gif)
+
+
 Configuration script for use with Kronos Wow.
 
 ## What does it do?
